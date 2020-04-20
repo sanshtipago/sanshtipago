@@ -10,7 +10,7 @@ class App extends Component {
                     <img src={logo} className="App-logo" alt="logo" />
                     <h1 className="App-title">Добредојдовте во Сан Штипаго</h1>
                 </header>
-                <p className="App-intro">Ова страна ќе биде за Штип.</p>
+                <p className="App-intro">Оваa страна ќе биде за Штип.</p>
             </div>
         );
     }
